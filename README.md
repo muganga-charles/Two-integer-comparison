@@ -1,3 +1,4 @@
 # Two-integer-comparison
 
-The program accepts entries of numbers
+The program accepts entries of numbers.
+the program 
